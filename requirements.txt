@@ -1,0 +1,7 @@
+# Python dependencies for PiHole Monitor
+# Using standard library primarily
+# Add external dependencies only when necessary
+
+# Testing dependencies
+pytest>=7.0.0
+pytest-cov>=4.0.0  # For coverage reports
